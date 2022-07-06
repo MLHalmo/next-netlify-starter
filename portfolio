@@ -1,0 +1,87 @@
+<!-- wp:cover {"url":"https://mlhalmo697635546.files.wordpress.com/2022/05/pexels-photo-4072840-1.jpeg","id":107,"dimRatio":40,"overlayColor":"primary","focalPoint":{"x":0.5,"y":0.77},"isDark":false,"align":"full"} -->
+<div class="wp-block-cover alignfull is-light"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-40 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-107" alt="" src="https://mlhalmo697635546.files.wordpress.com/2022/05/pexels-photo-4072840-1.jpeg" style="object-position:50% 77%" data-object-fit="cover" data-object-position="50% 77%"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"level":1} -->
+<h1>MLH</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Portfolio</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"},"padding":{"top":"7vw","bottom":"0vw"}}}} -->
+<div class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:7vw;padding-bottom:0vw"><!-- wp:pullquote {"textAlign":"center"} -->
+<figure class="wp-block-pullquote has-text-align-center"><blockquote><p>StoryMap</p><cite>ArcGIS Online</cite></blockquote></figure>
+<!-- /wp:pullquote --></div>
+<!-- /wp:group -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:columns {"verticalAlignment":"top","align":"wide"} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:image {"id":129,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://mlhalmo697635546.files.wordpress.com/2022/05/pexels-photo-9133484-1-edited.jpeg?w=869" alt="" class="wp-image-129"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p><a href="https://arcg.is/1Ge9Gy" target="_blank" rel="noreferrer noopener">Per- and Polyfluoroalkyl Substances (PFASs)</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Contamination Sites Located in the Pacific Northwest.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:pullquote -->
+<figure class="wp-block-pullquote"><blockquote><p>Image Analysis </p><cite>NDVI analysis of New Orleans <br>Landsat Explorer - Living Atlas</cite></blockquote></figure>
+<!-- /wp:pullquote -->
+
+<!-- wp:group {"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:jetpack/tiled-gallery {"align":"wide","columnWidths":[["67.37912","32.62088"]],"ids":[167,166,169]} -->
+<div class="wp-block-jetpack-tiled-gallery alignwide is-style-rectangular"><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:67.37912%"><figure class="tiled-gallery__item"><img alt="" data-height="685" data-id="167" data-link="https://mlhalmo697635546.wordpress.com/home-3/veg4_index/" data-url="https://mlhalmo697635546.files.wordpress.com/2022/05/veg4_index.jpg?w=1017" data-width="1017" src="https://mlhalmo697635546.files.wordpress.com/2022/05/veg4_index.jpg" data-amp-layout="responsive"/></figure></div><div class="tiled-gallery__col" style="flex-basis:32.62088%"><figure class="tiled-gallery__item"><img alt="" data-height="619" data-id="166" data-link="https://mlhalmo697635546.wordpress.com/home-3/veg3_index/" data-url="https://mlhalmo697635546.files.wordpress.com/2022/05/veg3_index.jpg?w=873" data-width="873" src="https://mlhalmo697635546.files.wordpress.com/2022/05/veg3_index.jpg" data-amp-layout="responsive"/></figure><figure class="tiled-gallery__item"><img alt="" data-height="677" data-id="169" data-link="https://mlhalmo697635546.wordpress.com/home-3/veg2_index-1/" data-url="https://mlhalmo697635546.files.wordpress.com/2022/05/veg2_index-1.jpg?w=1001" data-width="1001" src="https://mlhalmo697635546.files.wordpress.com/2022/05/veg2_index-1.jpg" data-amp-layout="responsive"/></figure></div></div></div></div>
+<!-- /wp:jetpack/tiled-gallery --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p>NDVI formula: (Near Infrared - Red) / (Near Infrared + Red)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Vegetation mask value of 0.45 (rich vegetation areas in green).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Study area layer in blue (lower right). </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:pullquote -->
+<figure class="wp-block-pullquote"><blockquote><p></p></blockquote></figure>
+<!-- /wp:pullquote -->
+
+<!-- wp:group {"align":"full","backgroundColor":"foreground"} -->
+<div class="wp-block-group alignfull has-foreground-background-color has-background"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":4} -->
+<h4>Contact</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"backgroundColor":"tertiary"} -->
+<p class="has-tertiary-background-color has-background">email: lucia.halmo@gmail.com</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
